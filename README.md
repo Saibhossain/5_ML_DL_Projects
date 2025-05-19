@@ -52,3 +52,15 @@ YOLOv5-based object detector trained to recognize inventory products in images.
 1. Clone the repository:
    ```bash
    git clone https://github.com/Saibhossain/5_ML_DL_Projects.git
+
+
+
+
+
+
+
+📌 Author
+
+Saib Hossain
+Computer Science Student | ML/DL Enthusiast | Focused on AI Research
+🔗 [LinkedIn](https://www.linkedin.com/in/saib-hossain-182834229/)   |   [Kaggle](https://www.kaggle.com/saibhossain)
